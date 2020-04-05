@@ -1,0 +1,15 @@
+.btn-appp {
+    height: 40px;
+    border-radius: 3px;
+    border: 1px solid;
+}
+.editandremove {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.tonggle-eye > i{
+    opacity: .5;
+    color: black !important;
+}
